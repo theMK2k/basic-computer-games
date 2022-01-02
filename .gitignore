@@ -1,0 +1,16 @@
+*/.vs
+*.suo
+
+bin/
+obj/
+
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+*.py[co]
+Pipfile
+
+.DS_Store
